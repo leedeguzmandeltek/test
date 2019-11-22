@@ -1,0 +1,13 @@
+# Ignore .project file, the maconomyextender project properties file and this file itself.
+.project
+.maconomyextender
+.sandboxservers
+
+# Ignore specific directories
+ExtenderProject/RepositoryConfiguration
+ExtenderProject/RepositoryConfiguration/
+/Configuration/
+bin/
+
+# Igonore file types
+*.class

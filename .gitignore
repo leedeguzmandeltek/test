@@ -1,0 +1,4 @@
+bin/
+
+# Igonore file types
+*.class
